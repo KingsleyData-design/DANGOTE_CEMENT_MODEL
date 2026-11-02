@@ -2,13 +2,13 @@
 
 A simple three-year model of Dangote Cement Plc, built in Excel from the company’s own filings. Figures are Group (consolidated), in ₦ million unless stated.
 
-**#What’s in the model**
+**What’s in the model**
 Group income statement for FY2024 and FY2025, copied from the 2025 Annual Report
 Check cells that confirm every subtotal adds up (all show 0)
 Growth and margin ratios
 A simple FY2026E forecast driven by a few assumptions
 
-**#Key findings**
+## **Key findings**
 Revenue grew 20.3%, from ₦3.58 trillion to ₦4.31 trillion
 Profit for the year roughly doubled (up 101.7%), from ₦503 billion to ₦1,015 billion
 Gross margin rose from 54% to 62%, and net margin from 14% to 24%
