@@ -10,7 +10,7 @@ A simple FY2026E forecast driven by a few assumptions
 
 ## **Key findings**
 Revenue grew 20.3%, from ₦3.58 trillion to ₦4.31 trillion
-Profit for the year roughly doubled (up 101.7%), from ₦503 billion to ₦1,015 billion
+Profit for the year roughly doubled (up 102%), from ₦503 billion to ₦1,015 billion
 Gross margin rose from 54% to 62%, and net margin from 14% to 24%
 Finance costs fell by about half, from ₦700 billion to ₦352 billion
 FY2026E: revenue of about ₦5.23 trillion and profit of about ₦1.26 trillion
